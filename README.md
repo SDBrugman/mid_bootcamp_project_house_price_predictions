@@ -45,7 +45,7 @@ o	Group different features, e.g. year renovated, size of living area.
 
 ### 3. ‘Raw’ Model vs. Improved Model:
 
-<center> <img src="chart_repo.JPG" alt="Model"> 
+<center> <img src="chart_repo.JPG"> 
 
 
 ## Key Insights
